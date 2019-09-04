@@ -1,1 +1,3 @@
 # NotBot
+
+[Link](#notbot)
